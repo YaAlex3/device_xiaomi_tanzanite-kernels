@@ -1,6 +1,4 @@
-*.dtb
 *.dtbo
-*.img
 *.ko
 .config
 Image

@@ -174,8 +174,6 @@ mtk-pm-domain-disable-unused.ko
 mi_thermal_message.ko
 perf_helper.ko
 perfhelper.ko
-mi_schedule.ko
-metis.ko
 binder_prio.ko
 mi_wmark.ko
 xiaomi_spi_tee.ko

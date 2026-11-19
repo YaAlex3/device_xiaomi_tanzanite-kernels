@@ -4,7 +4,6 @@ dbgtop-drm.ko
 mrdump.ko
 mtk_sync.ko
 miev.ko
-mi_memory.ko
 mtk_disp_notify.ko
 hq_notify.ko
 aee_aed.ko

@@ -4,7 +4,6 @@ dbgtop-drm.ko
 mrdump.ko
 mtk_sync.ko
 miev.ko
-mi_memory.ko
 mtk_disp_notify.ko
 hq_notify.ko
 aee_aed.ko
@@ -188,11 +187,8 @@ sec.ko
 zram.ko
 hq_fuel_algorithm.ko
 perfhelper.ko
-mi_schedule.ko
-metis.ko
 bq28z610.ko
 xiaomi.ko
-stub_scp.ko
 lct_tp.ko
 mtk-mbox.ko
 mtk_rpmsg_mbox.ko

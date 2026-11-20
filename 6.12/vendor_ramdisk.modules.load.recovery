@@ -188,10 +188,3 @@ zram.ko
 hq_fuel_algorithm.ko
 perfhelper.ko
 bq28z610.ko
-xiaomi.ko
-lct_tp.ko
-mtk-mbox.ko
-mtk_rpmsg_mbox.ko
-mtk_tinysys_ipi.ko
-switch_class.ko
-ft3519t.ko

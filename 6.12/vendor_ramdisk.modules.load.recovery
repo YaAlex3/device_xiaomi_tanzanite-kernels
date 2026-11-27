@@ -179,12 +179,14 @@ syscon-reboot-mode.ko
 hqsysfs.ko
 hqsys_pcba.ko
 hqsys_misc.ko
-mtk_rpmsg_mbox.ko
-mtk-mbox.ko
-mtk_tinysys_ipi.ko
 arm_dsu_pmu.ko
 sec.ko
 zram.ko
 hq_fuel_algorithm.ko
 perfhelper.ko
 bq28z610.ko
+
+xiaomi.ko
+lct_tp.ko
+switch_class.ko
+ft3519t.ko

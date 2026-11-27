@@ -111,7 +111,6 @@ trace_mmstat.ko
 mtk-pwm.ko
 mtk_irtx_pwm.ko
 xiaomi.ko
-ft3519t.ko
 lct_tp.ko
 mtk-lpm-legacy.ko
 mtk-lpm-dbg-common-v1-legacy.ko
@@ -124,6 +123,7 @@ mtk-vow.ko
 mtk-scp-vow.ko
 fhctl.ko
 scp.ko
+ft3519t.ko
 imgsensor_isp6s.ko
 camera_eeprom.ko
 archcounter_timesync.ko
